@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+}
+
+.box{
+    position: absolute;
+    border-radius: 30px;
+    background-color: rgb(203, 202, 202);
+    width: 60px;
+    height: 30px;
+    
+}
+
+.button{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    position: relative;
+    background-color: yellow;
+}
+
+button :active{
+    margin-left: right;
+}
+
