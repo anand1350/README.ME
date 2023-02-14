@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Blog",
+    "imageUrl": "https://static.dw.com/image/61713800_1006.jpg",
+    "description": "Иргэд 2020 оноос төрийн үйлчилгээг цаг алдалгүй авч эхэлснээр үнэт цаг"
+  },
+  {
+    "id": 2,
+    "name": "Technology",
+    "imageUrl": "https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2017-05/23b0b0b9caaa07ee409b693da9bf9003.jpeg?h=999fdb2a&itok=NI7EBwBG",
+    "description": "Иргэд 2020 оноос төрийн үйлчилгээг цаг алдалгүй авч эхэлснээр үнэт цаг"
+  },
+  {
+    "id": 3,
+    "name": "Photo",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR19HxDxpXQ3pr5OqP9qrCj1BuYF8fM6VHzAur26jRqbtPHNhvdHPxnndkOc7lEWBtmmBc&usqp=CAU",
+    "description": "Иргэд 2020 оноос төрийн үйлчилгээг цаг алдалгүй авч эхэлснээр үнэт цаг"
+  },
+  {
+    "id": 4,
+    "name": "Contact",
+    "imageUrl": "https://www.state.gov/wp-content/uploads/2019/04/China-2107x1406.jpg",
+    "description": "Иргэд 2020 оноос төрийн үйлчилгээг цаг алдалгүй авч эхэлснээр үнэт цаг"
+  }
+]
